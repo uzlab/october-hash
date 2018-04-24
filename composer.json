@@ -1,0 +1,12 @@
+{
+  "name": "uzlab/october-hash",
+  "description": "",
+  "version": "1.0.0",
+  "license": "MIT",
+  "autoload": {
+    "files": ["src/OctoberHash/functions.php"],
+    "psr-4": {
+      "OctoberHash\\": "src/OctoberHash"
+    }
+  }
+}
